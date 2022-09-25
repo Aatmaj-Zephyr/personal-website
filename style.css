@@ -1,0 +1,75 @@
+body {
+    background-image: url(/images/background.jpg);
+    height: 100%;
+  }
+  .name {
+    color: green;
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    text-align: center;
+  }
+  .earthpng {
+    display: block;
+    max-width: 15%;
+    padding-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .autotype {
+    padding: 2rem auto 2rem auto;
+  }
+  .top,
+  .middle,
+  .bottom {
+    background-color: rgba(234, 249, 68, 0.517);
+    max-width: 85%;
+    margin: 3rem auto 0 auto;
+    border-radius: 3rem;
+    box-shadow: 0 4px 8px 0 rgba(10, 10, 10, 0.5),
+      0 6px 20px 0 rgba(10, 10, 10, 0.5);
+  }
+  .main {
+    text-align: center;
+    font-size: 1.25rem;
+    padding-bottom: 3rem;
+  }
+  .mainbottom {
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 2rem;
+  }
+  .socialicons {
+    max-width: 15%;
+    padding-right: 8%;
+  }
+  .socialiconsend {
+    max-width: 15%;
+  }
+  .languageicons {
+    max-width: 15%;
+  }
+  .heading {
+    text-align: center;
+    font-size: 3rem;
+  }
+  .iconcontainer {
+    max-width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2.5rem;
+    text-align: center;
+  }
+  .typewriter h1 {
+    display: block;
+    text-align: center;
+    color: forestgreen;
+    font-size: 3rem;
+    padding-top: 3rem;
+  }
+  .middle h1 {
+    padding-top: 2rem;
+  }
+  .typewriter h1 {
+    font-family: "Times New Roman", Times, serif;
+  }
