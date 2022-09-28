@@ -25,8 +25,7 @@ body {
     max-width: 85%;
     margin: 3rem auto 0 auto;
     border-radius: 3rem;
-    box-shadow: 0 4px 8px 0 rgba(10, 10, 10, 0.5),
-      0 6px 20px 0 rgba(10, 10, 10, 0.5);
+    box-shadow: 0 4px 8px 0 rgba(10, 10, 10, 0.5),0 6px 20px 0 rgba(10, 10, 10, 0.5);
   }
   .main {
     text-align: center;
