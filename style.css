@@ -40,7 +40,10 @@ body {
   }
   .socialicons {
     max-width: 15%;
-    padding-right: 8%;
+     margin-left: 4%;
+    margin-right: 4%;
+     
+    
   }
   .socialiconsend {
     max-width: 15%;
@@ -58,6 +61,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 2.5rem;
+ 
+    
     text-align: center;
   }
   .typewriter h1 {
